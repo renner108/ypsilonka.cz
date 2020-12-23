@@ -10,7 +10,7 @@
 * **Nezobrazovat novinku na úvodce** (nastavit např. na 1)
 	+ skryje novinku z výpisu na homepage
 
-----
+
 
 ## Program
 
@@ -27,8 +27,7 @@
 
 #### Řízení zobrazení online show
 
-	+ skrytí na homepage - nastavením v adminu **zadano** nebo **vyprodano**
-	+ **zadano** nebo **vyprodano** též odsune představení z Doporučených
-	+ úplné skrytí - nastavením v adminu jako **neaktivní**
+* skrytí na homepage - nastavením v adminu **zadano** nebo **vyprodano**
+* **zadano** nebo **vyprodano** též odsune představení z Doporučených
+* úplné skrytí - nastavením v adminu jako **neaktivní**
 
-----
