@@ -1,5 +1,7 @@
 # ypsilonka.cz
 
+https://www.ypsilonka.cz (starý web je na http://old.ypsilonka.cz/)
+
 ## Novinky
 
 ### Řízení zobrazení
